@@ -1,14 +1,17 @@
 {
     "ver": "1.3.5",
     "api1":"wor",
-    "unc1":"99%","sunc1":"100%",
+    "unc1":"99","sunc1":"100",
     "lastapi1": "5/5/2025, 16:54:47 PM UTC",
+    "sunc1link": "https://r.sunc.su/TYEm04LZll",
     "api2":"pat",
     "unc2":"...","sunc2":"...",
     "lastapi2": "4/9/2025, 9:02:31 PM UTC",
+    "sunc2link": "",
     "api3":"pat",
     "unc3":"...","sunc3":"...",
     "lastapi3": "4/9/2025, 9:02:31 PM UTC",
+    "sunc3link": "",
     "rb":"0, 671, 0, 6710817",
     "rbtng": "version-c3c1514fd260482e",
     "lastrbtng": "5/5/2025, 16:58:57 PM UTC"
