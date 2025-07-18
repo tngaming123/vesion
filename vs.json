@@ -1,9 +1,13 @@
 {
-    "ver": "1.4.2.3",
-    "vermain":"2.1.1",
+    "ver": "1.4.2.4",
     "api1":"wor",
+    "dectec":"co",
     "unc1":"96","sunc1":"98",
-    "lastapi1": "6/26/2025, 11:01:57 PM UTC",
+    "lastapi1": "7/18/2025, 11:01:57 PM UTC",
     "rbtng": "version-78712d8739f34cb9",
     "lastrbtng": "6/26/2025, 11:00:57 PM UTC"
+    "verex":"1.0.0.0",
+    "exter":"wor",
+    "dectecexeter":"no",
+    "lastexter": "7/18/2025, 11:01:57 PM UTC",
 }
